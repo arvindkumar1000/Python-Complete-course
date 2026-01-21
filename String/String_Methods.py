@@ -3,7 +3,7 @@ a="Harry"
 # print(a.upper())
 # print(a.lower())
 
-# rstrip() used...   the rstip() removes any trailing characters.
+# rstrip() used...   the rstrip() removes any trailing characters.
 
 str1="Hello !!!"
 # print(str1.strip('!'))
